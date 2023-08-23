@@ -5,7 +5,7 @@ name = "AllTube"
 description.en = "Web interface for Youtube-dl"
 description.fr = "Interface Web pour Youtube-dl"
 
-version = "3.1.1~ynh1"
+version = "3.2.0-alpha~ynh1"
 
 maintainers = ["plopoyop"]
 
@@ -40,8 +40,8 @@ ram.runtime = "50M"
 
 [resources]
         [resources.sources.main]
-        url = "https://github.com/Rudloff/alltube/releases/download/3.1.1/alltube-3.1.1.zip"
-        sha256 = "e28ad51e96e0c9a02e3df5fd365f7b3b4df0fec5683447e6a9d978a66cbe27af"
+        url = "https://github.com/Rudloff/alltube/releases/download/3.2.0-alpha/alltube-3.2.0-alpha.zip"
+        sha256 = "d1900e6e9799dd51b15c45ad9d22d4e7abf03bf96fbe523dc15d98416feb224f"
 
     [resources.system_user]
 
